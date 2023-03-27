@@ -1,0 +1,15 @@
+C:\Users\Sena\Desktop\CodigoAnimales\bin\Debug\net6.0\CodigoAnimales.exe
+C:\Users\Sena\Desktop\CodigoAnimales\bin\Debug\net6.0\CodigoAnimales.deps.json
+C:\Users\Sena\Desktop\CodigoAnimales\bin\Debug\net6.0\CodigoAnimales.runtimeconfig.json
+C:\Users\Sena\Desktop\CodigoAnimales\bin\Debug\net6.0\CodigoAnimales.dll
+C:\Users\Sena\Desktop\CodigoAnimales\bin\Debug\net6.0\CodigoAnimales.pdb
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\CodigoAnimales.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\CodigoAnimales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\CodigoAnimales.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\CodigoAnimales.AssemblyInfo.cs
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\CodigoAnimales.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\CodigoAnimales.dll
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\refint\CodigoAnimales.dll
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\CodigoAnimales.pdb
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\CodigoAnimales.genruntimeconfig.cache
+C:\Users\Sena\Desktop\CodigoAnimales\obj\Debug\net6.0\ref\CodigoAnimales.dll
